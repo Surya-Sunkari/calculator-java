@@ -4,7 +4,7 @@ import java.awt.event.*;
 import javax.swing.*; 
 import java.awt.*; 
 
-public class Calculator implements ActionListener {
+public class CalculatorGui implements ActionListener {
 	
 	//https://www.thecrazyprogrammer.com/2014/06/program-to-create-calculator-using-java-swing.html
 	
