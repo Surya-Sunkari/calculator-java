@@ -15,7 +15,7 @@ public class CalculatorGui implements ActionListener {
 	double previous = 0;
 	
 	
-	Calculator()
+	CalculatorGui()
 	{
 		frame = new JFrame("Calculator");
 		t = new JTextField();
@@ -238,7 +238,7 @@ public class CalculatorGui implements ActionListener {
 	}
 	
 	public static void main(String[] args) {
-		new Calculator();
+		new CalculatorGui();
 	}
 
 }
